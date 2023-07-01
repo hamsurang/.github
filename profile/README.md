@@ -2,10 +2,10 @@
 
 <img src="https://github.com/function-and-mountain/.github/assets/57122180/e2f34eb0-7bd6-408e-ac61-9138c3f875e7" />
 
-### 함수형 산악회란?
+### 함수랑 산악회란?
 
 함수랑 산악회는 열정있는 프론트엔드 개발자들이 모여  
 프론트엔드의 거대한 산을 등반하는 모임이에요  
 함수랑 산악회가 더 궁금하다면 오픈채팅으로 편하게 문의주세요
 
-[함수형 산악회 오픈채팅방](https://open.kakao.com/o/sTjHAUsf)
+[함수랑 산악회 오픈채팅방](https://open.kakao.com/o/sTjHAUsf)
