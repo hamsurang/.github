@@ -1,6 +1,6 @@
 ## 함수랑 산악회에 오신걸 환영합니다 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<img src="./assets/cover.png" />
+<img src="https://github.com/function-and-mountain/.github/assets/57122180/e2f34eb0-7bd6-408e-ac61-9138c3f875e7" />
 
 ### 함수형 산악회란?
 
