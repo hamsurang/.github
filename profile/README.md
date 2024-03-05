@@ -1,11 +1,12 @@
-## 함수랑 산악회에 오신걸 환영합니다 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+## 함수랑산악회에 오신걸 환영합니다 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <img src="https://github.com/function-and-mountain/.github/assets/57122180/e2f34eb0-7bd6-408e-ac61-9138c3f875e7" />
 
-### 함수랑 산악회란?
+### 함수랑산악회란?
 
-함수랑 산악회는 열정있는 프론트엔드 개발자들이 모여  
+함수랑산악회는 열정있는 프론트엔드 개발자들이 모여  
 프론트엔드의 거대한 산을 등반하는 모임이에요  
-함수랑 산악회가 더 궁금하다면 오픈채팅으로 편하게 문의주세요
+함수랑산악회가 더 궁금하다면 오픈채팅으로 편하게 문의주세요
 
-[함수랑 산악회 오픈채팅방](https://open.kakao.com/o/sTjHAUsf)
+[함수랑산악회 오픈채팅방](https://open.kakao.com/o/sTjHAUsf)  
+[함수랑노션](https://with-function.notion.site/4ec7716aa5354fc280cac5aa70a2800b)
