@@ -9,4 +9,4 @@
 함수랑산악회가 더 궁금하다면 오픈채팅으로 편하게 문의주세요
 
 [함수랑산악회 오픈채팅방](https://open.kakao.com/o/sTjHAUsf)  
-[함수랑노션](https://with-function.notion.site/4ec7716aa5354fc280cac5aa70a2800b)
+[함수랑노션](https://hamsurang.notion.site/4ec7716aa5354fc280cac5aa70a2800b)
